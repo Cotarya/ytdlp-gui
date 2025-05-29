@@ -1,2 +1,5 @@
 # ytdlp-gui
-This is tool to help use ytdlp because some people are bad at using powershell
+I'm making this tool because not everyone knows how to use powershell
+# How to use
+Download original yt-dlp and place it where ytdlpgui is
+then run ytdlpgui
